@@ -1,5 +1,10 @@
 # Matrix Factorization Recommender System
 
+![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![NumPy](https://img.shields.io/badge/made%20with-NumPy-013243.svg)
+![Status](https://img.shields.io/badge/status-complete-success.svg)
+
 **A collaborative filtering model built from scratch using NumPy and Gradient Descent**
 
 Implemented matrix factorization to predict movie ratings on the MovieLens 100k dataset (100,000 ratings, 943 users, 1,682 movies). Achieved **MSE of 0.91** on test set.

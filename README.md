@@ -22,12 +22,19 @@ This is a **from-scratch implementation** of the core algorithm behind recommend
 
 ## Results
 
+The model successfully predicts movie ratings with good accuracy:
+
 | Metric | Value |
 |--------|-------|
 | Test MSE | 0.91 |
 | Training Epochs | 100 |
 | Learning Rate | 0.001 |
 | Dataset | MovieLens 100k |
+
+**Visualizations included:**
+- Training loss curve showing convergence over epochs
+- Error distribution histogram for test set predictions
+- Statistical analysis of prediction accuracy
 
 ## Quick Start
 

